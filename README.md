@@ -7,5 +7,9 @@
 
  <br> 
 
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daviiisousa&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+ <div align="center">
+  <a href="https://github.com/daviiisousa">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviiisousa&show_icons=true&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviiisousa&layout=compact&theme=radical"/>
+  </a>
+</div>
