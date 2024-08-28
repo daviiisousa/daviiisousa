@@ -4,7 +4,7 @@
    * [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daviiisousa18/)
    * 	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-sousa-1a6a622ab/)
 # Ferramentas👨‍💻
-   *<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,ts,react,tailwind,git,github&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,ts,react,tailwind,git,github&theme=dark" />
 
  <br> 
 
@@ -15,4 +15,4 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:93FB9D,100:09C7FB&reversal=true&descAlignY=0&descAlign=100&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=gradient&section=footer&reversal=false&fontAlign=71&animation=scaleIn&textBg=false&fontAlignY=45&descSize=11&descAlign=92&descAlignY=44" />
