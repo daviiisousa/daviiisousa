@@ -15,4 +15,4 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=gradient&section=footer&reversal=false&fontAlign=71&animation=scaleIn&textBg=false&fontAlignY=45&descSize=11&descAlign=92&descAlignY=44" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&section=footer&reversal=false&fontAlign=55&animation=blinking&textBg=false&fontAlignY=50&descAlign=0&descAlignY=0" />
