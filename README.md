@@ -14,5 +14,3 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviiisousa&layout=compact&theme=radical"/>
   </a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&section=footer&reversal=false&fontAlign=55&animation=blinking&textBg=false&fontAlignY=50&descAlign=0&descAlignY=0" />
