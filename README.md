@@ -5,10 +5,12 @@
     height="30" />
 </h1>
 
-# Meus contatos 📲
-   * [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daviiisousa18/)
-   * 	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-sousa-1a6a622ab/)
-# Ferramentas👨‍💻
+<h1>Meus contatos 📲</h1>
+<div style="flex ">
+  <a href="https://www.instagram.com/daviiisousa18/?__pwa=1" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+</div>
+<h1>Ferramentas👨‍💻</h1>
    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,tailwind,bootstrap,git,github&theme=dark" />
 
  <br> 
