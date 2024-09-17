@@ -6,9 +6,9 @@
 </h1>
 
 <h1>Meus contatos 📲</h1>
-<div style="flex ">
+<div style="flex">
   <a href="https://www.instagram.com/daviiisousa18/?__pwa=1" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  <a href="https://www.linkedin.com/in/davi-sousa-alves/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 </div>
 <h1>Ferramentas👨‍💻</h1>
    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,tailwind,bootstrap,git,github&theme=dark" />
