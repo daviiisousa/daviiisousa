@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/davi-sousa-alves/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 </div>
 <h1>Ferramentas👨‍💻</h1>
-   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,tailwind,bootstrap,git,github,cypress&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,tailwind,git,github&theme=dark" />
 
  <br> 
 
