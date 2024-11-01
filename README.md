@@ -5,6 +5,10 @@
     height="30" />
 </h1>
 
+<div align="center">
+ <img src="https://i.pinimg.com/originals/5a/5d/4c/5a5d4c5894fae6d2f807e5c5a330302a.gif" />
+</div>
+
 <h1>Meus contatos 📲</h1>
 <div style="flex">
   <a href="https://www.instagram.com/daviiisousa18/?__pwa=1" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
@@ -22,6 +26,3 @@
   </a>
 </div>
 
-<div align="center">
- <img src="https://i.pinimg.com/originals/5a/5d/4c/5a5d4c5894fae6d2f807e5c5a330302a.gif" />
-</div>
