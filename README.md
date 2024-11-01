@@ -15,9 +15,13 @@
 
  <br> 
 
- <div align="center">
+ <div align="center" >
   <a href="https://github.com/daviiisousa">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviiisousa&show_icons=true&theme=radical"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviiisousa&layout=compact&theme=radical"/>
   </a>
+</div>
+
+<div align="center">
+ <img src="https://i.pinimg.com/originals/5a/5d/4c/5a5d4c5894fae6d2f807e5c5a330302a.gif" />
 </div>
