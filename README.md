@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
- <img src="https://i.pinimg.com/originals/5a/5d/4c/5a5d4c5894fae6d2f807e5c5a330302a.gif" />
+ <img height="200" src="https://i.pinimg.com/originals/5a/5d/4c/5a5d4c5894fae6d2f807e5c5a330302a.gif" />
 </div>
 
 <h1>Meus contatos 📲</h1>
