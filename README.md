@@ -9,9 +9,9 @@
 <table>
   <tr>
     <td>
-      <h4>
+      <h2>
         Desenvolvedor Frontend e apaixonado por transformar ideias em interfaces funcionais e intuitivas. Tenho experiência com React, TypeScript e JavaScript, além de conhecimento em HTML, CSS e bibliotecas como Tailwind e Bootstrap. Atualmente, estou focado nos estudos me desenvolvendo para ser um dev fullstack.
-      </h4>
+      </h2>
     </td>
     <td>
       <img height="300" width="300" src="https://i.pinimg.com/originals/5a/5d/4c/5a5d4c5894fae6d2f807e5c5a330302a.gif" />
