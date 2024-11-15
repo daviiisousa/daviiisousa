@@ -6,7 +6,7 @@
 </h1>
 
 
-<div align="center">
+<div display="flex">
  <img height="200" src="https://i.pinimg.com/originals/5a/5d/4c/5a5d4c5894fae6d2f807e5c5a330302a.gif" />
   <h4>Desenvolvedor Frontend e apaixonado por transformar ideias em interfaces funcionais e intuitivas. Tenho experiência com React, TypeScript e JavaScript, além de conhecimento em HTML, CSS e bibliotecas como Tailwind e Bootstrap. Atualmente, estou focado nos estudos me desenvovlvendo para ser um dev fullstack.</h4>
 </div>
@@ -15,6 +15,7 @@
 <div style="flex">
   <a href="https://www.instagram.com/daviiisousa19/?__pwa=1" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
   <a href="https://www.linkedin.com/in/davi-sousa-alves/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+   <a href="https://drive.google.com/file/d/1EYr9pjbrplIlzoOEKSrBcRmSOddnit4B/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-CV-0078D4?style=flat-square&labelColor=0078D4&logo=readme&logoColor=white"/></a></a>
 </div>
 <h1>Ferramentas👨‍💻</h1>
    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,nodejs&theme=dark" />
