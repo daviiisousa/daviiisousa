@@ -10,7 +10,7 @@
   <tr>
     <td>
       <h2>
-        Desenvolvedor Frontend e apaixonado por transformar ideias em interfaces funcionais e intuitivas. Tenho experiência com React, TypeScript e JavaScript, além de conhecimento em HTML, CSS e bibliotecas como Tailwind e Bootstrap. Atualmente, estou focado nos estudos me desenvolvendo para ser um dev fullstack.
+        Desenvolvedor Frontend e apaixonado por transformar ideias em interfaces funcionais e intuitivas. Tenho experiência com React, TypeScript e JavaScript, além de conhecimento em HTML, CSS e bibliotecas como Tailwind e Bootstrap. Atualmente, sou um DEV em desenvolvimento.
       </h2>
     </td>
     <td>
