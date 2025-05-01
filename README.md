@@ -27,7 +27,7 @@
    <a href="https://drive.google.com/file/d/1EYr9pjbrplIlzoOEKSrBcRmSOddnit4B/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-CV-0078D4?style=flat-square&labelColor=0078D4&logo=readme&logoColor=white"/></a></a>
 </div>
 <h1>Ferramentas👨‍💻</h1>
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,nodejs&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,git,nodejs&theme=dark" />
 
  <br> 
 
