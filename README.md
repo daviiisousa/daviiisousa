@@ -10,7 +10,9 @@
   <tr>
     <td>
       <h2>
-        Desenvolvedor FullStack e apaixonado por transformar ideias em interfaces funcionais e intuitivas. Tenho experiência com React, TypeScript e JavaScript, além de conhecimento em HTML, CSS e bibliotecas como Tailwind e Bootstrap. Atualmente, sou um DEV em desenvolvimento.
+        Desenvolvedor Fullstack em formação, com experiência prática em projetos colaborativos e
+monitoria técnica. Proativo, comunicativo e focado em soluções funcionais e criativas. Familiarizado
+com desenvolvimento web moderno, frameworks populares e ferramentas de versionamento.
       </h2>
     </td>
     <td>
