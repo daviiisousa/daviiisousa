@@ -26,11 +26,15 @@ com desenvolvimento web moderno, frameworks populares e ferramentas de versionam
 <div>
   <a href="https://www.instagram.com/daviiisousa19/?__pwa=1" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
   <a href="https://www.linkedin.com/in/davi-sousa-alves/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+  <br/>
    <a href="https://drive.google.com/file/d/1j0wIt1h96M_thkmI5WZudDTH_daljHxM/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-CV-0078D4?style=flat-square&labelColor=0078D4&logo=readme&logoColor=white"/></a></a>
 </div>
 <h1>Ferramentas👨‍💻</h1>
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,git,nodejs,postgres,express&theme=dark" />
-  <img src="https://camo.githubusercontent.com/6bb1903c78e2fe8fbaa3144559b886ae494e6ddb57d8a5ca11c5780d640af54d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e386e2d3042354538373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e386e266c6f676f436f6c6f723d7768697465" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,git,nodejs,postgres,supabase,express&theme=dark" />
+   <div display="flex">
+    <img src="https://camo.githubusercontent.com/6bb1903c78e2fe8fbaa3144559b886ae494e6ddb57d8a5ca11c5780d640af54d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e386e2d3042354538373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e386e266c6f676f436f6c6f723d7768697465" />
+     <img src="https://camo.githubusercontent.com/3864e29a62343ef5eab3acaee2886833754938a4664aef47201bd938195eb642/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73686164636e2f75692d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765" />
+   </div>
  <br> 
 
  <div align="center" >
