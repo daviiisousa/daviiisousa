@@ -30,7 +30,7 @@ com desenvolvimento web moderno, frameworks populares e ferramentas de versionam
 </div>
 <h1>Ferramentas👨‍💻</h1>
    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,git,nodejs,postgres,express&theme=dark" />
-
+  <img src="https://camo.githubusercontent.com/6bb1903c78e2fe8fbaa3144559b886ae494e6ddb57d8a5ca11c5780d640af54d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e386e2d3042354538373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e386e266c6f676f436f6c6f723d7768697465" />
  <br> 
 
  <div align="center" >
