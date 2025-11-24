@@ -24,7 +24,7 @@ com desenvolvimento web moderno, frameworks populares e ferramentas de versionam
 
 <h1>Meus contatos 📲</h1>
 <div>
-  <a href="https://www.instagram.com/daviiisousa19/?__pwa=1" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+  <a href="https://www.instagram.com/davi.sousa___/?__pwa=1" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
   <a href="https://www.linkedin.com/in/davi-sousa-alves/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
   <br/>
    <a href="https://drive.google.com/file/d/1fl_8S65BZLWO_WFx2YJ1UJD19jYIm4tg/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-CV-0078D4?style=flat-square&labelColor=0078D4&logo=readme&logoColor=white"/></a></a>
