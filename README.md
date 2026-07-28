@@ -35,7 +35,7 @@ Proativo, comunicativo e focado em entregar soluções funcionais, criativas e d
 </div>
 <h1>Tecnologias👨‍💻</h1>
   <h2>Frontend:</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,figma,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,next,tailwind,figma,linux&theme=dark" />
     <div>
       <img src="https://img.shields.io/badge/Shadcn UI-%23000000.svg?style=flat-square&logo=shadcn/ui&logoColor=white" />
       <img src="https://img.shields.io/badge/React Query-%23FF4154.svg?style=flat-square&logo=reactquery&logoColor=white" />
