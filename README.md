@@ -40,6 +40,7 @@ Proativo, comunicativo e focado em entregar soluções funcionais, criativas e d
       <img src="https://img.shields.io/badge/Shadcn UI-%23000000.svg?style=flat-square&logo=shadcn/ui&logoColor=white" />
       <img src="https://img.shields.io/badge/React Query-%23FF4154.svg?style=flat-square&logo=reactquery&logoColor=white" />
       <img src="https://img.shields.io/badge/React Hook Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white" />
+       <img src="https://img.shields.io/badge/zod-%23408AFF.svg?style=flat-square&logo=zod&logoColor=white" />
     </div>
   <h2>Backend:</h2>
      <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,express,python,js,ts,linux&theme=dark" />
