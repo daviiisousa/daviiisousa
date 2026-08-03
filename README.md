@@ -59,6 +59,7 @@ Proativo, comunicativo e focado em entregar soluções funcionais, criativas e d
       <div>
         <img src="https://img.shields.io/badge/N8N-%23EA4B71.svg?style=flat-square&logo=n8n&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini-%238E75B2.svg?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/pnpm-%23F69220.svg?style=flat-square&logo=pnpm&logoColor=white" />
       </div>
  
 <table>
